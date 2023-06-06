@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2miqA5MjNNi28Fja4ttv1iYUbvzSx5Ie4apJ1oSATrwPkwfv/OAaaoawthz/PZwIguhvBy8Ep/gy2a+04VdrnA==",
+  "dgSpecHash": "+ZvYfS3AFd0opCCH2Y/BgSTRjT45xBDvXk1nLk68L9Ne7VilYuFE+ThBkKuEMtaXmxrxOmeILRimnfGxZfKohg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brunodh\\Desktop\\Alura\\backend-dotnet-api\\criando-uma-web-api\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\brunodh\\Desktop\\Alura\\backend-dotnet-relacionando-entidades\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brunodh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\brunodh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
