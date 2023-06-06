@@ -162,3 +162,5 @@ C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\o
 C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\obj\Debug\net7.0\FilmesApi.pdb
 C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\obj\Debug\net7.0\FilmesApi.genruntimeconfig.cache
 C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\obj\Debug\net7.0\ref\FilmesApi.dll
+C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\brunodh\Desktop\Alura\backend-dotnet-relacionando-entidades\FilmesApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
