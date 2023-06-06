@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\bin\Debug\net7.0\ByteBankImportacaoExportacao.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\bin\Debug\net7.0\ByteBankImportacaoExportacao.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\bin\Debug\net7.0\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\bin\Debug\net7.0\ByteBankImportacaoExportacao.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\bin\Debug\net7.0\ByteBankImportacaoExportacao.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\refint\ByteBankImportacaoExportacao.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ByteBankImportacaoExportacao.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte9\ByteBankImportacaoExportacao\obj\Debug\net7.0\ref\ByteBankImportacaoExportacao.dll

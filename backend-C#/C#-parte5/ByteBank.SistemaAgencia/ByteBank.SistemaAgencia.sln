@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaAgencia", "ByteBank.SistemaAgencia.csproj", "{96272EBD-E64E-4012-9D2E-8D67E2CEE9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Modelos", "ByteBank.Modelos\ByteBank.Modelos.csproj", "{D095E67C-E370-47EF-9FB3-B1722826F1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humanizer", "Humanizer\Humanizer.csproj", "{964478B9-ADEE-427D-A31B-EF94BCEC6A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96272EBD-E64E-4012-9D2E-8D67E2CEE9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96272EBD-E64E-4012-9D2E-8D67E2CEE9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96272EBD-E64E-4012-9D2E-8D67E2CEE9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96272EBD-E64E-4012-9D2E-8D67E2CEE9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D095E67C-E370-47EF-9FB3-B1722826F1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D095E67C-E370-47EF-9FB3-B1722826F1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D095E67C-E370-47EF-9FB3-B1722826F1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D095E67C-E370-47EF-9FB3-B1722826F1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964478B9-ADEE-427D-A31B-EF94BCEC6A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964478B9-ADEE-427D-A31B-EF94BCEC6A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964478B9-ADEE-427D-A31B-EF94BCEC6A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964478B9-ADEE-427D-A31B-EF94BCEC6A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+SELECT CEILING(12.3333323)
+
+SELECT FLOOR(12.3333323)
+
+SELECT RAND()
+
+SELECT ROUND(12.3333323, 2)
+
+SELECT * FROM [ITENS NOTAS FISCAIS]
+
+SELECT QUANTIDADE, PREÇO, ROUND((QUANTIDADE * PREÇO),1) AS FATURAMENTO FROM [ITENS NOTAS FISCAIS]
+
+/* Na tabela de notas fiscais, temos o valor do imposto. Já na tabela de itens, temos a quantidade e 
+o faturamento. Calcule o valor do imposto pago no ano de 2016, arredondando para o menor inteiro. */
+
+SELECT YEAR(DATA) AS ANO, FLOOR(SUM(IMPOSTO * (QUANTIDADE * PREÇO))) AS FATURAMENTO
+FROM [NOTAS FISCAIS] NF
+INNER JOIN [ITENS NOTAS FISCAIS] INF ON NF.NUMERO = INF.NUMERO 
+WHERE YEAR(DATA) = 2016
+GROUP BY YEAR(DATA)
+
+
+

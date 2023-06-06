@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\bin\Debug\net7.0\ExpressoesRegulares.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\bin\Debug\net7.0\ExpressoesRegulares.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\bin\Debug\net7.0\ExpressoesRegulares.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\bin\Debug\net7.0\ExpressoesRegulares.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\bin\Debug\net7.0\ExpressoesRegulares.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\refint\ExpressoesRegulares.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ExpressoesRegulares.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte6\ExpressoesRegulares\obj\Debug\net7.0\ref\ExpressoesRegulares.dll

@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\bin\Debug\net7.0\6-Condicional.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\bin\Debug\net7.0\6-Condicional.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\bin\Debug\net7.0\6-Condicional.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\bin\Debug\net7.0\6-Condicional.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\bin\Debug\net7.0\6-Condicional.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\refint\6-Condicional.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\6-Condicional.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\6-Condicional\obj\Debug\net7.0\ref\6-Condicional.dll

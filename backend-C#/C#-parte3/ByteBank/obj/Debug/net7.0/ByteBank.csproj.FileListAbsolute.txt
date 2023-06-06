@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\bin\Debug\net7.0\ByteBank.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\bin\Debug\net7.0\ByteBank.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\bin\Debug\net7.0\ByteBank.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\bin\Debug\net7.0\ByteBank.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\bin\Debug\net7.0\ByteBank.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\refint\ByteBank.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ByteBank.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte3\ByteBank\obj\Debug\net7.0\ref\ByteBank.dll

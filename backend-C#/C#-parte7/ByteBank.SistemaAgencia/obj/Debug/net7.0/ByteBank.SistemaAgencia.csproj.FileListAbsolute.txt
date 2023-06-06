@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\bin\Debug\net7.0\ByteBank.SistemaAgencia.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\bin\Debug\net7.0\ByteBank.SistemaAgencia.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\bin\Debug\net7.0\ByteBank.SistemaAgencia.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\bin\Debug\net7.0\ByteBank.SistemaAgencia.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\bin\Debug\net7.0\ByteBank.SistemaAgencia.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\refint\ByteBank.SistemaAgencia.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ByteBank.SistemaAgencia.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte7\ByteBank.SistemaAgencia\obj\Debug\net7.0\ref\ByteBank.SistemaAgencia.dll

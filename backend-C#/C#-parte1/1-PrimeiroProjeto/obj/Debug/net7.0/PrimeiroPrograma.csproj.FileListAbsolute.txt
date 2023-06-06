@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\bin\Debug\net7.0\PrimeiroPrograma.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\refint\PrimeiroPrograma.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PrimeiroPrograma\obj\Debug\net7.0\ref\PrimeiroPrograma.dll

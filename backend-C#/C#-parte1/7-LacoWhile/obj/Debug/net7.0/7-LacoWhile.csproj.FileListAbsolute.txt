@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\bin\Debug\net7.0\7-LacoWhile.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\bin\Debug\net7.0\7-LacoWhile.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\bin\Debug\net7.0\7-LacoWhile.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\bin\Debug\net7.0\7-LacoWhile.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\bin\Debug\net7.0\7-LacoWhile.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\refint\7-LacoWhile.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\7-LacoWhile.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\7-LacoWhile\obj\Debug\net7.0\ref\7-LacoWhile.dll

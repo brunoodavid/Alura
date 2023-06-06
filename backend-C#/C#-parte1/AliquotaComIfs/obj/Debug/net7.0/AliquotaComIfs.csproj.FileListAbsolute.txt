@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\bin\Debug\net7.0\AliquotaComIfs.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\bin\Debug\net7.0\AliquotaComIfs.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\bin\Debug\net7.0\AliquotaComIfs.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\bin\Debug\net7.0\AliquotaComIfs.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\bin\Debug\net7.0\AliquotaComIfs.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\refint\AliquotaComIfs.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\AliquotaComIfs.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\AliquotaComIfs\obj\Debug\net7.0\ref\AliquotaComIfs.dll

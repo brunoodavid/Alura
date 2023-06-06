@@ -1,0 +1,15 @@
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\bin\Debug\net7.0\PalavraChaveBreak.exe
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\bin\Debug\net7.0\PalavraChaveBreak.deps.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\bin\Debug\net7.0\PalavraChaveBreak.runtimeconfig.json
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\bin\Debug\net7.0\PalavraChaveBreak.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\bin\Debug\net7.0\PalavraChaveBreak.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.csproj.AssemblyReference.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.AssemblyInfoInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.AssemblyInfo.cs
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.csproj.CoreCompileInputs.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\refint\PalavraChaveBreak.dll
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.pdb
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\PalavraChaveBreak.genruntimeconfig.cache
+C:\Users\brunodh\Desktop\Alura\backend-C#\C#-parte1\PalavraChaveBreak\obj\Debug\net7.0\ref\PalavraChaveBreak.dll
