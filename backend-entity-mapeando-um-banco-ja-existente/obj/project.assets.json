@@ -3613,31 +3613,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brunodh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Bruno Hoffmann\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brunodh\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\backend-entity-mapeando-um-banco-ja-existente.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno Hoffmann\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\backend-entity-mapeando-um-banco-ja-existente.csproj",
       "projectName": "backend-entity-mapeando-um-banco-ja-existente",
-      "projectPath": "C:\\Users\\brunodh\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\backend-entity-mapeando-um-banco-ja-existente.csproj",
-      "packagesPath": "C:\\Users\\brunodh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brunodh\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\obj\\",
+      "projectPath": "C:\\Users\\Bruno Hoffmann\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\backend-entity-mapeando-um-banco-ja-existente.csproj",
+      "packagesPath": "C:\\Users\\Bruno Hoffmann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruno Hoffmann\\Desktop\\Alura\\backend-entity-mapeando-um-banco-ja-existente\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\brunodh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Bruno Hoffmann\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3691,7 +3684,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

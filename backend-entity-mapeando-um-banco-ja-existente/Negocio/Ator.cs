@@ -11,9 +11,9 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
     {
         [Column("actor_id")]
         public int Id { get; set; }
-        [Column("first_name")]
+        [Column("first_name", TypeName = "varchar(45)")]
         public string PrimeiroNome { get; set; }
-        [Column("last_name")]
+        [Column("last_name", TypeName = "varchar(45)")]
         public string UltimoNome { get; set; }
 
         public override string ToString(){
