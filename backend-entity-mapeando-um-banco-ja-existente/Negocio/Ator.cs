@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
 {
-    [Table("actor")]
     public class Ator
     {
         public int Id { get; set; }

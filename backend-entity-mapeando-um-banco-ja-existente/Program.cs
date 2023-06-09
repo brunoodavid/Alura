@@ -7,7 +7,7 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
     {
         static void Main(string[] args)
         {
-            
+            recuperarValoresShadowProperties();
         }
 
         static void recuperarValoresShadowProperties(){
