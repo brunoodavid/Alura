@@ -1,4 +1,5 @@
 ﻿using backend_entity_mapeando_um_banco_ja_existente.Dados;
+using Microsoft.EntityFrameworkCore;
 
 namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
 {
@@ -6,16 +7,19 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
     {
         static void Main(string[] args)
         {
+            
+        }
+
+        static void recuperarValoresShadowProperties(){
             using (var contexto = new AluraFilmesContexto())
             {
-                var ator = new Ator();
-                ator.PrimeiroNome = "Tom";
-                ator.UltimoNome = "Hanks";
-                contexto.Entry(ator).Property("last_update").CurrentValue = DateTime.Now;
-
-                contexto.Atores.Add(ator);
-                contexto.SaveChanges();
-
+                var atores = contexto.Atores
+                    .OrderByDescending(a => EF.Property<DateTime>(a, "last_update"))
+                    .Take(10);
+                
+                foreach(var ator in atores){
+                    Console.WriteLine(ator + " - " + contexto.Entry(ator).Property("last_update").CurrentValue);
+                }
             }
         }
     }
