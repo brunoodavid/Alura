@@ -11,6 +11,7 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
     {
 
         public DbSet<Ator> Atores { get; set; }
+        public DbSet<Filme> Filmes {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("data source=SRVHDB05.hml.local; Initial Catalog=SUCOS_VENDAS_BRUNO;Integrated Security=True;TrustServerCertificate=True");
@@ -38,6 +39,39 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
                 .IsRequired();
             
             modelBuilder.Entity<Ator>()
+                .Property<DateTime>("last_update")
+                .HasColumnType("datetime")
+                .HasDefaultValueSql("getdate()")
+                .IsRequired();
+            
+            modelBuilder.Entity<Filme>()
+                .ToTable("film");
+            
+            modelBuilder.Entity<Filme>()
+                .Property(f => f.Id)
+                .HasColumnName("film_id");
+            
+            modelBuilder.Entity<Filme>()
+                .Property(f => f.Titulo)
+                .HasColumnName("title")
+                .HasColumnType("varchar(255)")
+                .IsRequired();
+
+            modelBuilder.Entity<Filme>()
+                .Property(f => f.Descricao)
+                .HasColumnName("description")
+                .HasColumnType("text");
+            
+            modelBuilder.Entity<Filme>()
+                .Property(f => f.AnoLancamento)
+                .HasColumnName("release_year")
+                .HasColumnType("varchar(4)");
+            
+            modelBuilder.Entity<Filme>()
+                .Property(f => f.Duracao)
+                .HasColumnName("length");
+            
+            modelBuilder.Entity<Filme>()
                 .Property<DateTime>("last_update")
                 .HasColumnType("datetime")
                 .HasDefaultValueSql("getdate()")

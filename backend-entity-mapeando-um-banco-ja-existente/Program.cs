@@ -1,4 +1,5 @@
-﻿using backend_entity_mapeando_um_banco_ja_existente.Dados;
+﻿using Alura.Filmes.App.Extensions;
+using backend_entity_mapeando_um_banco_ja_existente.Dados;
 using Microsoft.EntityFrameworkCore;
 
 namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
@@ -7,7 +8,13 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
     {
         static void Main(string[] args)
         {
-            recuperarValoresShadowProperties();
+            using(var contexto = new AluraFilmesContexto()){
+                contexto.LogSQLToConsole();
+
+            foreach(var filme in contexto.Filmes){
+                Console.WriteLine(filme);
+            }
+            }
         }
 
         static void recuperarValoresShadowProperties(){
