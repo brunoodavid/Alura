@@ -36,6 +36,11 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
                 .HasColumnName("last_name")
                 .HasColumnType("varchar(45)")
                 .IsRequired();
+            
+            modelBuilder.Entity<Ator>()
+                .Property<DateTime>("last_update")
+                .HasColumnType("datetime")
+                .IsRequired();
         }
     }
 }
