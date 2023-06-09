@@ -40,6 +40,7 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
             modelBuilder.Entity<Ator>()
                 .Property<DateTime>("last_update")
                 .HasColumnType("datetime")
+                .HasDefaultValueSql("getdate()")
                 .IsRequired();
         }
     }
