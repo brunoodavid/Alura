@@ -8,7 +8,21 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
     {
         static void Main(string[] args)
         {
+            using(var contexto = new AluraFilmesContexto()){
+                contexto.LogSQLToConsole();
 
+                var idiomas = contexto.Idiomas
+                    .Include(i => i.FilmesFalados);
+
+                foreach(var idioma in idiomas){
+                    Console.WriteLine(idioma);
+
+                    foreach(var filme in idioma.FilmesFalados){
+                        Console.WriteLine(filme);
+                    }
+                    Console.WriteLine("\n");
+                }
+            }
         }
 
         static void recuperarValoresShadowProperties()
@@ -52,6 +66,27 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
                     var actorId = entidade.Property("actor_id").CurrentValue;
                     var lastUpd = entidade.Property("last_update").CurrentValue;
                     Console.WriteLine($"Filme {filmId}, Ator {actorId}, LastUpdate: {lastUpd}");
+                }
+            }
+        }
+
+        static void mostrandoAtoresDoFilme()
+        {
+            using (var contexto = new AluraFilmesContexto())
+            {
+                contexto.LogSQLToConsole();
+
+                var filme = contexto.Filmes
+                    .Include(f => f.Atores)
+                    .ThenInclude(fa => fa.Ator)
+                    .First();
+
+                Console.WriteLine(filme);
+                Console.WriteLine("Elenco: ");
+
+                foreach (var ator in filme.Atores)
+                {
+                    Console.WriteLine(ator.Ator);
                 }
             }
         }

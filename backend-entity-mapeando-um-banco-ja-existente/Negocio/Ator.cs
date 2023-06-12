@@ -12,6 +12,11 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
         public int Id { get; set; }
         public string PrimeiroNome { get; set; }
         public string UltimoNome { get; set; }
+        public IList<FilmeAtor> Filmografia { get; set; }
+
+        public Ator(){
+            Filmografia = new List<FilmeAtor>();
+        }
 
         public override string ToString(){
             return $"Ator ({Id}: {PrimeiroNome} {UltimoNome})";

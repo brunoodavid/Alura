@@ -13,6 +13,7 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
         public DbSet<Ator> Atores { get; set; }
         public DbSet<Filme> Filmes {get; set;}
         public DbSet<FilmeAtor> Elenco {get; set;}
+        public DbSet<Idioma> Idiomas {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("data source=SRVHDB05.hml.local; Initial Catalog=SUCOS_VENDAS_BRUNO;Integrated Security=True;TrustServerCertificate=True");
@@ -24,6 +25,7 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Dados
             modelBuilder.ApplyConfiguration(new AtorConfiguration());
             modelBuilder.ApplyConfiguration(new FilmeConfiguration());
             modelBuilder.ApplyConfiguration(new FilmeAtorConfiguration());
+            modelBuilder.ApplyConfiguration(new IdiomaConfiguration());
             
         }
     }

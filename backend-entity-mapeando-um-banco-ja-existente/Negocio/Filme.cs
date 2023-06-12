@@ -12,6 +12,13 @@ namespace backend_entity_mapeando_um_banco_ja_existente.Negocio
         public string Descricao { get; set;}
         public string AnoLancamento { get; set;}
         public short Duracao { get; set;}
+        public IList<FilmeAtor> Atores { get; set; }
+        public Idioma IdiomaFalado { get; set; }
+        public Idioma IdiomaOriginal { get; set; }
+
+        public Filme(){
+            Atores = new List<FilmeAtor>();
+        }
 
         public override string ToString()
         {
