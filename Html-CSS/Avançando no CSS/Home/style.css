@@ -39,25 +39,30 @@ nav a:hover{
     text-decoration: underline;
 }
 
-#banner{
+.banner{
     width: 100%;
 }
 
 .principal{
-    background: #CCCCCC;
-    padding: 30px;
+    width: 940px;
+    margin: 0 auto;
 }
 
-.titulo-centralizado{
+.titulo-principal{
     text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
 
-p{
-    text-align: center;
+.principal p{
+    margin: 0 0 1em;
 }
 
-em strong{
-    color: red;
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
 
 .item{
@@ -77,7 +82,7 @@ em strong{
 }
 
 .imagembeneficios{
-    width: 50%;
+    width: 40%;
 }
 
 footer{
